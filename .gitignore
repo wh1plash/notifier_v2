@@ -3,3 +3,4 @@
 ./bin
 ./pb_data
 ./receivers/image
+.gitignore
